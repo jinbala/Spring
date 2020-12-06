@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../day48-spring-mvc/day48-spring-mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../day49-spring-mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../day49-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../../JavaEE/day49-SpringMVC/代码/day49_a_springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../../JavaEE/day49-SpringMVC/代码/ssm_01" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../JavaEE/day46-Spring/代码/day46_spring_zanno/pom.xml" />
+        <option value="$PROJECT_DIR$/../day45-spring重新学习/pom.xml" />
+        <option value="$PROJECT_DIR$/../czbk/day45-spring重新学习/pom.xml" />
+        <option value="$PROJECT_DIR$/../czbk/day47_spring_a_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/../czbk/spring框架学习/pom.xml" />
+        <option value="$PROJECT_DIR$/../czbk/aaa/pom.xml" />
+        <option value="$PROJECT_DIR$/../czbk/day47-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../day47-spring-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/../czbk/day47-spring-zhujie/pom.xml" />
+        <option value="$PROJECT_DIR$/../day48-spring-mvc/day48-spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../day49-spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../JavaEE/day49-SpringMVC/代码/day49_a_springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../day49-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../../JavaEE/day49-SpringMVC/代码/ssm_01/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

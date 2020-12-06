@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../boluo/leetcode/editor/cn/[LCP 25]古董键盘.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../boluo/leetcode/editor/cn/[LCP 25]古董键盘.java" />
+              <option name="questionId" value="1000138" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../boluo/leetcode/editor/cn/[剑指 Offer 10- I]斐波那契数列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../boluo/leetcode/editor/cn/[剑指 Offer 10- I]斐波那契数列.java" />
+              <option name="questionId" value="100274" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
